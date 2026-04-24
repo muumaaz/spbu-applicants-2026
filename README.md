@@ -1,5 +1,6 @@
 # 🎓 SPbU Foreign Applicants 2026 — Dataset & Analysis
-Dataset on Huggingface[https://huggingface.co/datasets/muumaaz/spbu-applicants-2026]
+Dataset on [Huggingface](https://huggingface.co/datasets/muumaaz/spbu-applicants-2026)  
+
 **Saint Petersburg State University (СПбГУ)** — International applicant data for the 2026 academic year.
 
 | Metric | Value |
